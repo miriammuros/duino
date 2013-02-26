@@ -3,11 +3,12 @@
   "contributors": [
     { "name": "Rick Waldron", "email": "waldron.rick@gmail.com" },
     { "name": "Leonhardt Wille", "email": "wille@riverlabs.de" },
-    { "name": "Seiya Konno", "email": "nulltask@gmail.com" }
+    { "name": "Seiya Konno", "email": "nulltask@gmail.com" },
+    { "name": "Miriam Muros", "email": "miriam.muros@gmail.com" }
   ],
   "name": "duino",
   "description": "Arduino framework for mad scientists",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "keywords": [
     "arduino",
     "serial",
@@ -15,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/ecto/duino.git"
+    "url": "git://github.com/miriammuros/duino.git"
   },
   "main": "index.js",
   "engines": {
