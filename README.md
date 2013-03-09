@@ -4,7 +4,8 @@ A framework for working with Arduinos in node.js modified by Miriam Muros
 
 # install
 
-    npm install Path_to_duino/duino
+    clone this repo
+    npm install path_to_duino/duino
 
 # usage
 
