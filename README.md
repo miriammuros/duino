@@ -1,12 +1,10 @@
 # duino
 
-A framework for working with Arduinos in node.js
-
-![arduino](http://i.imgur.com/eFq84.jpg)
+A framework for working with Arduinos in node.js modified by Miriam Muros
 
 # install
 
-    npm install duino
+    npm install Path_to_duino/duino
 
 # usage
 
